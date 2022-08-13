@@ -1,2 +1,7 @@
 # Web-340
-NodeJs
+# WEB 340 Node.js
+## Contributors
+<ul>
+  <li>Professor Richard Krasso</li>
+  <li>Justin Yost</li>
+</ul>
