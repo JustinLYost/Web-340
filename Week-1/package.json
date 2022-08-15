@@ -1,0 +1,22 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "books",
+  "main": "books.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinLYost/Web-340.git#main"
+  },
+  "author": "Professor Krasso and Justin Yost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinLYost/Web-340/issues"
+  },
+  "homepage": "https://github.com/JustinLYost/Web-340/tree/main#readme",
+  "dependencies": {
+    "pug": "^3.0.2"
+  }
+}
